@@ -1,0 +1,215 @@
+2025-02-12 19:50:57 - new_flat_generator([[['a'], ['b', 'c']], ['d', 'e', [['f'], 'h'], False], [1, 2, None, [[[[['!']]]]], []]]) -> <generator object new_flat_generator at 0x000001F5C04651C0>
+2025-02-12 19:50:57 - new_flat_generator([['a'], ['b', 'c']]) -> <generator object new_flat_generator at 0x000001F5C0465000>
+2025-02-12 19:50:57 - new_flat_generator(['a']) -> <generator object new_flat_generator at 0x000001F5C0465700>
+2025-02-12 19:50:57 - new_flat_generator(['b', 'c']) -> <generator object new_flat_generator at 0x000001F5C0465700>
+2025-02-12 19:50:57 - new_flat_generator(['d', 'e', [['f'], 'h'], False]) -> <generator object new_flat_generator at 0x000001F5C0465000>
+2025-02-12 19:50:57 - new_flat_generator([['f'], 'h']) -> <generator object new_flat_generator at 0x000001F5C0465700>
+2025-02-12 19:50:57 - new_flat_generator(['f']) -> <generator object new_flat_generator at 0x000001F5C0465540>
+2025-02-12 19:50:57 - new_flat_generator([1, 2, None, [[[[['!']]]]], []]) -> <generator object new_flat_generator at 0x000001F5C0465000>
+2025-02-12 19:50:57 - new_flat_generator([[[[['!']]]]]) -> <generator object new_flat_generator at 0x000001F5C0465700>
+2025-02-12 19:50:57 - new_flat_generator([[[['!']]]]) -> <generator object new_flat_generator at 0x000001F5C0465540>
+2025-02-12 19:50:57 - new_flat_generator([[['!']]]) -> <generator object new_flat_generator at 0x000001F5C0465620>
+2025-02-12 19:50:57 - new_flat_generator([['!']]) -> <generator object new_flat_generator at 0x000001F5C04657E0>
+2025-02-12 19:50:57 - new_flat_generator(['!']) -> <generator object new_flat_generator at 0x000001F5C0465380>
+2025-02-12 19:50:57 - new_flat_generator([]) -> <generator object new_flat_generator at 0x000001F5C0465700>
+2025-02-12 19:50:57 - new_flat_generator([[['a'], ['b', 'c']], ['d', 'e', [['f'], 'h'], False], [1, 2, None, [[[[['!']]]]], []]]) -> <generator object new_flat_generator at 0x000001F5C04651C0>
+2025-02-12 19:50:57 - new_flat_generator([['a'], ['b', 'c']]) -> <generator object new_flat_generator at 0x000001F5C0465000>
+2025-02-12 19:50:57 - new_flat_generator(['a']) -> <generator object new_flat_generator at 0x000001F5C0465700>
+2025-02-12 19:50:57 - new_flat_generator(['b', 'c']) -> <generator object new_flat_generator at 0x000001F5C0465700>
+2025-02-12 19:50:57 - new_flat_generator(['d', 'e', [['f'], 'h'], False]) -> <generator object new_flat_generator at 0x000001F5C0465000>
+2025-02-12 19:50:57 - new_flat_generator([['f'], 'h']) -> <generator object new_flat_generator at 0x000001F5C0465700>
+2025-02-12 19:50:57 - new_flat_generator(['f']) -> <generator object new_flat_generator at 0x000001F5C0465540>
+2025-02-12 19:50:57 - new_flat_generator([1, 2, None, [[[[['!']]]]], []]) -> <generator object new_flat_generator at 0x000001F5C0465000>
+2025-02-12 19:50:57 - new_flat_generator([[[[['!']]]]]) -> <generator object new_flat_generator at 0x000001F5C0465700>
+2025-02-12 19:50:57 - new_flat_generator([[[['!']]]]) -> <generator object new_flat_generator at 0x000001F5C0465540>
+2025-02-12 19:50:57 - new_flat_generator([[['!']]]) -> <generator object new_flat_generator at 0x000001F5C0465620>
+2025-02-12 19:50:57 - new_flat_generator([['!']]) -> <generator object new_flat_generator at 0x000001F5C04657E0>
+2025-02-12 19:50:57 - new_flat_generator(['!']) -> <generator object new_flat_generator at 0x000001F5C0465380>
+2025-02-12 19:50:57 - new_flat_generator([]) -> <generator object new_flat_generator at 0x000001F5C0465700>
+2025-02-12 19:50:57 - new_flat_generator([[['a'], ['b', 'c']], ['d', 'e', [['f'], 'h'], False], [1, 2, None, [[[[['!']]]]], []]]) -> <generator object new_flat_generator at 0x000001F5C04651C0>
+2025-02-12 19:50:57 - new_flat_generator([['a'], ['b', 'c']]) -> <generator object new_flat_generator at 0x000001F5C0465000>
+2025-02-12 19:50:57 - new_flat_generator(['a']) -> <generator object new_flat_generator at 0x000001F5C0465700>
+2025-02-12 19:50:57 - new_flat_generator(['b', 'c']) -> <generator object new_flat_generator at 0x000001F5C0465700>
+2025-02-12 19:50:57 - new_flat_generator(['d', 'e', [['f'], 'h'], False]) -> <generator object new_flat_generator at 0x000001F5C0465000>
+2025-02-12 19:50:57 - new_flat_generator([['f'], 'h']) -> <generator object new_flat_generator at 0x000001F5C0465700>
+2025-02-12 19:50:57 - new_flat_generator(['f']) -> <generator object new_flat_generator at 0x000001F5C0465540>
+2025-02-12 19:50:57 - new_flat_generator([1, 2, None, [[[[['!']]]]], []]) -> <generator object new_flat_generator at 0x000001F5C0465000>
+2025-02-12 19:50:57 - new_flat_generator([[[[['!']]]]]) -> <generator object new_flat_generator at 0x000001F5C0465700>
+2025-02-12 19:50:57 - new_flat_generator([[[['!']]]]) -> <generator object new_flat_generator at 0x000001F5C0465540>
+2025-02-12 19:50:57 - new_flat_generator([[['!']]]) -> <generator object new_flat_generator at 0x000001F5C0465620>
+2025-02-12 19:50:57 - new_flat_generator([['!']]) -> <generator object new_flat_generator at 0x000001F5C04657E0>
+2025-02-12 19:50:57 - new_flat_generator(['!']) -> <generator object new_flat_generator at 0x000001F5C0465380>
+2025-02-12 19:50:57 - new_flat_generator([]) -> <generator object new_flat_generator at 0x000001F5C0465700>
+2025-02-12 19:50:57 - new_flat_generator([[['a'], ['b', 'c']], ['d', 'e', [['f'], 'h'], False], [1, 2, None, [[[[['!']]]]], []]]) -> <generator object new_flat_generator at 0x000001F5C04651C0>
+2025-02-12 19:52:40 - new_flat_generator([[['a'], ['b', 'c']], ['d', 'e', [['f'], 'h'], False], [1, 2, None, [[[[['!']]]]], []]]) -> <generator object new_flat_generator at 0x000002B7528351C0>
+2025-02-12 19:52:40 - new_flat_generator([['a'], ['b', 'c']]) -> <generator object new_flat_generator at 0x000002B752835000>
+2025-02-12 19:52:40 - new_flat_generator(['a']) -> <generator object new_flat_generator at 0x000002B752835700>
+2025-02-12 19:52:40 - new_flat_generator(['b', 'c']) -> <generator object new_flat_generator at 0x000002B752835700>
+2025-02-12 19:52:40 - new_flat_generator(['d', 'e', [['f'], 'h'], False]) -> <generator object new_flat_generator at 0x000002B752835000>
+2025-02-12 19:52:40 - new_flat_generator([['f'], 'h']) -> <generator object new_flat_generator at 0x000002B752835700>
+2025-02-12 19:52:40 - new_flat_generator(['f']) -> <generator object new_flat_generator at 0x000002B752835540>
+2025-02-12 19:52:40 - new_flat_generator([1, 2, None, [[[[['!']]]]], []]) -> <generator object new_flat_generator at 0x000002B752835000>
+2025-02-12 19:52:40 - new_flat_generator([[[[['!']]]]]) -> <generator object new_flat_generator at 0x000002B752835700>
+2025-02-12 19:52:40 - new_flat_generator([[[['!']]]]) -> <generator object new_flat_generator at 0x000002B752835540>
+2025-02-12 19:52:40 - new_flat_generator([[['!']]]) -> <generator object new_flat_generator at 0x000002B752835620>
+2025-02-12 19:52:40 - new_flat_generator([['!']]) -> <generator object new_flat_generator at 0x000002B7528357E0>
+2025-02-12 19:52:40 - new_flat_generator(['!']) -> <generator object new_flat_generator at 0x000002B752835380>
+2025-02-12 19:52:40 - new_flat_generator([]) -> <generator object new_flat_generator at 0x000002B752835700>
+2025-02-12 19:52:40 - new_flat_generator([[['a'], ['b', 'c']], ['d', 'e', [['f'], 'h'], False], [1, 2, None, [[[[['!']]]]], []]]) -> <generator object new_flat_generator at 0x000002B7528351C0>
+2025-02-12 19:52:40 - new_flat_generator([['a'], ['b', 'c']]) -> <generator object new_flat_generator at 0x000002B752835000>
+2025-02-12 19:52:40 - new_flat_generator(['a']) -> <generator object new_flat_generator at 0x000002B752835700>
+2025-02-12 19:52:40 - new_flat_generator(['b', 'c']) -> <generator object new_flat_generator at 0x000002B752835700>
+2025-02-12 19:52:40 - new_flat_generator(['d', 'e', [['f'], 'h'], False]) -> <generator object new_flat_generator at 0x000002B752835000>
+2025-02-12 19:52:40 - new_flat_generator([['f'], 'h']) -> <generator object new_flat_generator at 0x000002B752835700>
+2025-02-12 19:52:40 - new_flat_generator(['f']) -> <generator object new_flat_generator at 0x000002B752835540>
+2025-02-12 19:52:40 - new_flat_generator([1, 2, None, [[[[['!']]]]], []]) -> <generator object new_flat_generator at 0x000002B752835000>
+2025-02-12 19:52:40 - new_flat_generator([[[[['!']]]]]) -> <generator object new_flat_generator at 0x000002B752835700>
+2025-02-12 19:52:40 - new_flat_generator([[[['!']]]]) -> <generator object new_flat_generator at 0x000002B752835540>
+2025-02-12 19:52:40 - new_flat_generator([[['!']]]) -> <generator object new_flat_generator at 0x000002B752835620>
+2025-02-12 19:52:40 - new_flat_generator([['!']]) -> <generator object new_flat_generator at 0x000002B7528357E0>
+2025-02-12 19:52:40 - new_flat_generator(['!']) -> <generator object new_flat_generator at 0x000002B752835380>
+2025-02-12 19:52:40 - new_flat_generator([]) -> <generator object new_flat_generator at 0x000002B752835700>
+2025-02-12 19:52:40 - new_flat_generator([[['a'], ['b', 'c']], ['d', 'e', [['f'], 'h'], False], [1, 2, None, [[[[['!']]]]], []]]) -> <generator object new_flat_generator at 0x000002B7528351C0>
+2025-02-12 19:52:40 - new_flat_generator([['a'], ['b', 'c']]) -> <generator object new_flat_generator at 0x000002B752835000>
+2025-02-12 19:52:40 - new_flat_generator(['a']) -> <generator object new_flat_generator at 0x000002B752835700>
+2025-02-12 19:52:40 - new_flat_generator(['b', 'c']) -> <generator object new_flat_generator at 0x000002B752835700>
+2025-02-12 19:52:40 - new_flat_generator(['d', 'e', [['f'], 'h'], False]) -> <generator object new_flat_generator at 0x000002B752835000>
+2025-02-12 19:52:40 - new_flat_generator([['f'], 'h']) -> <generator object new_flat_generator at 0x000002B752835700>
+2025-02-12 19:52:40 - new_flat_generator(['f']) -> <generator object new_flat_generator at 0x000002B752835540>
+2025-02-12 19:52:40 - new_flat_generator([1, 2, None, [[[[['!']]]]], []]) -> <generator object new_flat_generator at 0x000002B752835000>
+2025-02-12 19:52:40 - new_flat_generator([[[[['!']]]]]) -> <generator object new_flat_generator at 0x000002B752835700>
+2025-02-12 19:52:40 - new_flat_generator([[[['!']]]]) -> <generator object new_flat_generator at 0x000002B752835540>
+2025-02-12 19:52:40 - new_flat_generator([[['!']]]) -> <generator object new_flat_generator at 0x000002B752835620>
+2025-02-12 19:52:40 - new_flat_generator([['!']]) -> <generator object new_flat_generator at 0x000002B7528357E0>
+2025-02-12 19:52:40 - new_flat_generator(['!']) -> <generator object new_flat_generator at 0x000002B752835380>
+2025-02-12 19:52:40 - new_flat_generator([]) -> <generator object new_flat_generator at 0x000002B752835700>
+2025-02-12 19:52:40 - new_flat_generator([[['a'], ['b', 'c']], ['d', 'e', [['f'], 'h'], False], [1, 2, None, [[[[['!']]]]], []]]) -> <generator object new_flat_generator at 0x000002B7528351C0>
+2025-02-12 19:55:47.1316 - new_flat_generator([[['a'], ['b', 'c']], ['d', 'e', [['f'], 'h'], False], [1, 2, None, [[[[['!']]]]], []]]) -> <generator object new_flat_generator at 0x000001DDABC35620>
+2025-02-12 19:55:47.1319 - new_flat_generator([['a'], ['b', 'c']]) -> <generator object new_flat_generator at 0x000001DDABC35700>
+2025-02-12 19:55:47.1322 - new_flat_generator(['a']) -> <generator object new_flat_generator at 0x000001DDABC35000>
+2025-02-12 19:55:47.1324 - new_flat_generator(['b', 'c']) -> <generator object new_flat_generator at 0x000001DDABC35000>
+2025-02-12 19:55:47.1326 - new_flat_generator(['d', 'e', [['f'], 'h'], False]) -> <generator object new_flat_generator at 0x000001DDABC35700>
+2025-02-12 19:55:47.1329 - new_flat_generator([['f'], 'h']) -> <generator object new_flat_generator at 0x000001DDABC35000>
+2025-02-12 19:55:47.1331 - new_flat_generator(['f']) -> <generator object new_flat_generator at 0x000001DDABC35540>
+2025-02-12 19:55:47.1334 - new_flat_generator([1, 2, None, [[[[['!']]]]], []]) -> <generator object new_flat_generator at 0x000001DDABC35700>
+2025-02-12 19:55:47.1339 - new_flat_generator([[[[['!']]]]]) -> <generator object new_flat_generator at 0x000001DDABC35000>
+2025-02-12 19:55:47.1342 - new_flat_generator([[[['!']]]]) -> <generator object new_flat_generator at 0x000001DDABC35540>
+2025-02-12 19:55:47.1344 - new_flat_generator([[['!']]]) -> <generator object new_flat_generator at 0x000001DDABC351C0>
+2025-02-12 19:55:47.1346 - new_flat_generator([['!']]) -> <generator object new_flat_generator at 0x000001DDABC34AC0>
+2025-02-12 19:55:47.1348 - new_flat_generator(['!']) -> <generator object new_flat_generator at 0x000001DDABC357E0>
+2025-02-12 19:55:47.1350 - new_flat_generator([]) -> <generator object new_flat_generator at 0x000001DDABC35000>
+2025-02-12 19:55:47.1352 - new_flat_generator([[['a'], ['b', 'c']], ['d', 'e', [['f'], 'h'], False], [1, 2, None, [[[[['!']]]]], []]]) -> <generator object new_flat_generator at 0x000001DDABC35620>
+2025-02-12 19:55:47.1354 - new_flat_generator([['a'], ['b', 'c']]) -> <generator object new_flat_generator at 0x000001DDABC35700>
+2025-02-12 19:55:47.1355 - new_flat_generator(['a']) -> <generator object new_flat_generator at 0x000001DDABC35000>
+2025-02-12 19:55:47.1357 - new_flat_generator(['b', 'c']) -> <generator object new_flat_generator at 0x000001DDABC35000>
+2025-02-12 19:55:47.1359 - new_flat_generator(['d', 'e', [['f'], 'h'], False]) -> <generator object new_flat_generator at 0x000001DDABC35700>
+2025-02-12 19:55:47.1361 - new_flat_generator([['f'], 'h']) -> <generator object new_flat_generator at 0x000001DDABC35000>
+2025-02-12 19:55:47.1363 - new_flat_generator(['f']) -> <generator object new_flat_generator at 0x000001DDABC35540>
+2025-02-12 19:55:47.1365 - new_flat_generator([1, 2, None, [[[[['!']]]]], []]) -> <generator object new_flat_generator at 0x000001DDABC35700>
+2025-02-12 19:55:47.1367 - new_flat_generator([[[[['!']]]]]) -> <generator object new_flat_generator at 0x000001DDABC35000>
+2025-02-12 19:55:47.1370 - new_flat_generator([[[['!']]]]) -> <generator object new_flat_generator at 0x000001DDABC35540>
+2025-02-12 19:55:47.1374 - new_flat_generator([[['!']]]) -> <generator object new_flat_generator at 0x000001DDABC351C0>
+2025-02-12 19:55:47.1377 - new_flat_generator([['!']]) -> <generator object new_flat_generator at 0x000001DDABC34AC0>
+2025-02-12 19:55:47.1379 - new_flat_generator(['!']) -> <generator object new_flat_generator at 0x000001DDABC357E0>
+2025-02-12 19:55:47.1381 - new_flat_generator([]) -> <generator object new_flat_generator at 0x000001DDABC35000>
+2025-02-12 19:55:47.1383 - new_flat_generator([[['a'], ['b', 'c']], ['d', 'e', [['f'], 'h'], False], [1, 2, None, [[[[['!']]]]], []]]) -> <generator object new_flat_generator at 0x000001DDABC35620>
+2025-02-12 19:55:47.1385 - new_flat_generator([['a'], ['b', 'c']]) -> <generator object new_flat_generator at 0x000001DDABC35700>
+2025-02-12 19:55:47.1387 - new_flat_generator(['a']) -> <generator object new_flat_generator at 0x000001DDABC35000>
+2025-02-12 19:55:47.1389 - new_flat_generator(['b', 'c']) -> <generator object new_flat_generator at 0x000001DDABC35000>
+2025-02-12 19:55:47.1391 - new_flat_generator(['d', 'e', [['f'], 'h'], False]) -> <generator object new_flat_generator at 0x000001DDABC35700>
+2025-02-12 19:55:47.1393 - new_flat_generator([['f'], 'h']) -> <generator object new_flat_generator at 0x000001DDABC35000>
+2025-02-12 19:55:47.1394 - new_flat_generator(['f']) -> <generator object new_flat_generator at 0x000001DDABC35540>
+2025-02-12 19:55:47.1396 - new_flat_generator([1, 2, None, [[[[['!']]]]], []]) -> <generator object new_flat_generator at 0x000001DDABC35700>
+2025-02-12 19:55:47.1398 - new_flat_generator([[[[['!']]]]]) -> <generator object new_flat_generator at 0x000001DDABC35000>
+2025-02-12 19:55:47.1400 - new_flat_generator([[[['!']]]]) -> <generator object new_flat_generator at 0x000001DDABC35540>
+2025-02-12 19:55:47.1402 - new_flat_generator([[['!']]]) -> <generator object new_flat_generator at 0x000001DDABC351C0>
+2025-02-12 19:55:47.1403 - new_flat_generator([['!']]) -> <generator object new_flat_generator at 0x000001DDABC34AC0>
+2025-02-12 19:55:47.1405 - new_flat_generator(['!']) -> <generator object new_flat_generator at 0x000001DDABC357E0>
+2025-02-12 19:55:47.1407 - new_flat_generator([]) -> <generator object new_flat_generator at 0x000001DDABC35000>
+2025-02-12 19:55:47.1409 - new_flat_generator([[['a'], ['b', 'c']], ['d', 'e', [['f'], 'h'], False], [1, 2, None, [[[[['!']]]]], []]]) -> <generator object new_flat_generator at 0x000001DDABC35620>
+2025-02-12 20:00:11.3078 - new_flat_generator([[['a'], ['b', 'c']], ['d', 'e', [['f'], 'h'], False], [1, 2, None, [[[[['!']]]]], []]]) -> <generator object new_flat_generator at 0x0000019260A151C0>
+2025-02-12 20:00:11.3081 - new_flat_generator([['a'], ['b', 'c']]) -> <generator object new_flat_generator at 0x0000019260A15000>
+2025-02-12 20:00:11.3084 - new_flat_generator(['a']) -> <generator object new_flat_generator at 0x0000019260A15700>
+2025-02-12 20:00:11.3086 - new_flat_generator(['b', 'c']) -> <generator object new_flat_generator at 0x0000019260A15700>
+2025-02-12 20:00:11.3089 - new_flat_generator(['d', 'e', [['f'], 'h'], False]) -> <generator object new_flat_generator at 0x0000019260A15000>
+2025-02-12 20:00:11.3091 - new_flat_generator([['f'], 'h']) -> <generator object new_flat_generator at 0x0000019260A15700>
+2025-02-12 20:00:11.3093 - new_flat_generator(['f']) -> <generator object new_flat_generator at 0x0000019260A15540>
+2025-02-12 20:00:11.3095 - new_flat_generator([1, 2, None, [[[[['!']]]]], []]) -> <generator object new_flat_generator at 0x0000019260A15000>
+2025-02-12 20:00:11.3097 - new_flat_generator([[[[['!']]]]]) -> <generator object new_flat_generator at 0x0000019260A15700>
+2025-02-12 20:00:11.3099 - new_flat_generator([[[['!']]]]) -> <generator object new_flat_generator at 0x0000019260A15540>
+2025-02-12 20:00:11.3101 - new_flat_generator([[['!']]]) -> <generator object new_flat_generator at 0x0000019260A15620>
+2025-02-12 20:00:11.3103 - new_flat_generator([['!']]) -> <generator object new_flat_generator at 0x0000019260A157E0>
+2025-02-12 20:00:11.3104 - new_flat_generator(['!']) -> <generator object new_flat_generator at 0x0000019260A15380>
+2025-02-12 20:00:11.3106 - new_flat_generator([]) -> <generator object new_flat_generator at 0x0000019260A15700>
+2025-02-12 20:00:11.3108 - new_flat_generator([[['a'], ['b', 'c']], ['d', 'e', [['f'], 'h'], False], [1, 2, None, [[[[['!']]]]], []]]) -> <generator object new_flat_generator at 0x0000019260A151C0>
+2025-02-12 20:00:11.3110 - new_flat_generator([['a'], ['b', 'c']]) -> <generator object new_flat_generator at 0x0000019260A15000>
+2025-02-12 20:00:11.3114 - new_flat_generator(['a']) -> <generator object new_flat_generator at 0x0000019260A15700>
+2025-02-12 20:00:11.3116 - new_flat_generator(['b', 'c']) -> <generator object new_flat_generator at 0x0000019260A15700>
+2025-02-12 20:00:11.3119 - new_flat_generator(['d', 'e', [['f'], 'h'], False]) -> <generator object new_flat_generator at 0x0000019260A15000>
+2025-02-12 20:00:11.3121 - new_flat_generator([['f'], 'h']) -> <generator object new_flat_generator at 0x0000019260A15700>
+2025-02-12 20:00:11.3123 - new_flat_generator(['f']) -> <generator object new_flat_generator at 0x0000019260A15540>
+2025-02-12 20:00:11.3125 - new_flat_generator([1, 2, None, [[[[['!']]]]], []]) -> <generator object new_flat_generator at 0x0000019260A15000>
+2025-02-12 20:00:11.3128 - new_flat_generator([[[[['!']]]]]) -> <generator object new_flat_generator at 0x0000019260A15700>
+2025-02-12 20:00:11.3130 - new_flat_generator([[[['!']]]]) -> <generator object new_flat_generator at 0x0000019260A15540>
+2025-02-12 20:00:11.3133 - new_flat_generator([[['!']]]) -> <generator object new_flat_generator at 0x0000019260A15620>
+2025-02-12 20:00:11.3136 - new_flat_generator([['!']]) -> <generator object new_flat_generator at 0x0000019260A157E0>
+2025-02-12 20:00:11.3139 - new_flat_generator(['!']) -> <generator object new_flat_generator at 0x0000019260A15380>
+2025-02-12 20:00:11.3142 - new_flat_generator([]) -> <generator object new_flat_generator at 0x0000019260A15700>
+2025-02-12 20:00:11.3145 - new_flat_generator([[['a'], ['b', 'c']], ['d', 'e', [['f'], 'h'], False], [1, 2, None, [[[[['!']]]]], []]]) -> <generator object new_flat_generator at 0x0000019260A151C0>
+2025-02-12 20:00:11.3148 - new_flat_generator([['a'], ['b', 'c']]) -> <generator object new_flat_generator at 0x0000019260A15000>
+2025-02-12 20:00:11.3150 - new_flat_generator(['a']) -> <generator object new_flat_generator at 0x0000019260A15700>
+2025-02-12 20:00:11.3152 - new_flat_generator(['b', 'c']) -> <generator object new_flat_generator at 0x0000019260A15700>
+2025-02-12 20:00:11.3154 - new_flat_generator(['d', 'e', [['f'], 'h'], False]) -> <generator object new_flat_generator at 0x0000019260A15000>
+2025-02-12 20:00:11.3156 - new_flat_generator([['f'], 'h']) -> <generator object new_flat_generator at 0x0000019260A15700>
+2025-02-12 20:00:11.3158 - new_flat_generator(['f']) -> <generator object new_flat_generator at 0x0000019260A15540>
+2025-02-12 20:00:11.3159 - new_flat_generator([1, 2, None, [[[[['!']]]]], []]) -> <generator object new_flat_generator at 0x0000019260A15000>
+2025-02-12 20:00:11.3161 - new_flat_generator([[[[['!']]]]]) -> <generator object new_flat_generator at 0x0000019260A15700>
+2025-02-12 20:00:11.3163 - new_flat_generator([[[['!']]]]) -> <generator object new_flat_generator at 0x0000019260A15540>
+2025-02-12 20:00:11.3165 - new_flat_generator([[['!']]]) -> <generator object new_flat_generator at 0x0000019260A15620>
+2025-02-12 20:00:11.3167 - new_flat_generator([['!']]) -> <generator object new_flat_generator at 0x0000019260A157E0>
+2025-02-12 20:00:11.3169 - new_flat_generator(['!']) -> <generator object new_flat_generator at 0x0000019260A15380>
+2025-02-12 20:00:11.3171 - new_flat_generator([]) -> <generator object new_flat_generator at 0x0000019260A15700>
+2025-02-12 20:00:11.3173 - new_flat_generator([[['a'], ['b', 'c']], ['d', 'e', [['f'], 'h'], False], [1, 2, None, [[[[['!']]]]], []]]) -> <generator object new_flat_generator at 0x0000019260A151C0>
+2025-02-12 20:00:11.5124 - new_flat_generator([[['a'], ['b', 'c']], ['d', 'e', [['f'], 'h'], False], [1, 2, None, [[[[['!']]]]], []]]) -> <generator object new_flat_generator at 0x000001C3615B51C0>
+2025-02-12 20:00:11.5126 - new_flat_generator([['a'], ['b', 'c']]) -> <generator object new_flat_generator at 0x000001C3615B5000>
+2025-02-12 20:00:11.5128 - new_flat_generator(['a']) -> <generator object new_flat_generator at 0x000001C3615B5700>
+2025-02-12 20:00:11.5130 - new_flat_generator(['b', 'c']) -> <generator object new_flat_generator at 0x000001C3615B5700>
+2025-02-12 20:00:11.5133 - new_flat_generator(['d', 'e', [['f'], 'h'], False]) -> <generator object new_flat_generator at 0x000001C3615B5000>
+2025-02-12 20:00:11.5135 - new_flat_generator([['f'], 'h']) -> <generator object new_flat_generator at 0x000001C3615B5700>
+2025-02-12 20:00:11.5137 - new_flat_generator(['f']) -> <generator object new_flat_generator at 0x000001C3615B5540>
+2025-02-12 20:00:11.5139 - new_flat_generator([1, 2, None, [[[[['!']]]]], []]) -> <generator object new_flat_generator at 0x000001C3615B5000>
+2025-02-12 20:00:11.5141 - new_flat_generator([[[[['!']]]]]) -> <generator object new_flat_generator at 0x000001C3615B5700>
+2025-02-12 20:00:11.5144 - new_flat_generator([[[['!']]]]) -> <generator object new_flat_generator at 0x000001C3615B5540>
+2025-02-12 20:00:11.5147 - new_flat_generator([[['!']]]) -> <generator object new_flat_generator at 0x000001C3615B5620>
+2025-02-12 20:00:11.5149 - new_flat_generator([['!']]) -> <generator object new_flat_generator at 0x000001C3615B57E0>
+2025-02-12 20:00:11.5152 - new_flat_generator(['!']) -> <generator object new_flat_generator at 0x000001C3615B5380>
+2025-02-12 20:00:11.5154 - new_flat_generator([]) -> <generator object new_flat_generator at 0x000001C3615B5700>
+2025-02-12 20:00:11.5156 - new_flat_generator([[['a'], ['b', 'c']], ['d', 'e', [['f'], 'h'], False], [1, 2, None, [[[[['!']]]]], []]]) -> <generator object new_flat_generator at 0x000001C3615B51C0>
+2025-02-12 20:00:11.5158 - new_flat_generator([['a'], ['b', 'c']]) -> <generator object new_flat_generator at 0x000001C3615B5000>
+2025-02-12 20:00:11.5160 - new_flat_generator(['a']) -> <generator object new_flat_generator at 0x000001C3615B5700>
+2025-02-12 20:00:11.5163 - new_flat_generator(['b', 'c']) -> <generator object new_flat_generator at 0x000001C3615B5700>
+2025-02-12 20:00:11.5166 - new_flat_generator(['d', 'e', [['f'], 'h'], False]) -> <generator object new_flat_generator at 0x000001C3615B5000>
+2025-02-12 20:00:11.5168 - new_flat_generator([['f'], 'h']) -> <generator object new_flat_generator at 0x000001C3615B5700>
+2025-02-12 20:00:11.5172 - new_flat_generator(['f']) -> <generator object new_flat_generator at 0x000001C3615B5540>
+2025-02-12 20:00:11.5175 - new_flat_generator([1, 2, None, [[[[['!']]]]], []]) -> <generator object new_flat_generator at 0x000001C3615B5000>
+2025-02-12 20:00:11.5178 - new_flat_generator([[[[['!']]]]]) -> <generator object new_flat_generator at 0x000001C3615B5700>
+2025-02-12 20:00:11.5183 - new_flat_generator([[[['!']]]]) -> <generator object new_flat_generator at 0x000001C3615B5540>
+2025-02-12 20:00:11.5188 - new_flat_generator([[['!']]]) -> <generator object new_flat_generator at 0x000001C3615B5620>
+2025-02-12 20:00:11.5192 - new_flat_generator([['!']]) -> <generator object new_flat_generator at 0x000001C3615B57E0>
+2025-02-12 20:00:11.5194 - new_flat_generator(['!']) -> <generator object new_flat_generator at 0x000001C3615B5380>
+2025-02-12 20:00:11.5197 - new_flat_generator([]) -> <generator object new_flat_generator at 0x000001C3615B5700>
+2025-02-12 20:00:11.5200 - new_flat_generator([[['a'], ['b', 'c']], ['d', 'e', [['f'], 'h'], False], [1, 2, None, [[[[['!']]]]], []]]) -> <generator object new_flat_generator at 0x000001C3615B51C0>
+2025-02-12 20:00:11.5202 - new_flat_generator([['a'], ['b', 'c']]) -> <generator object new_flat_generator at 0x000001C3615B5000>
+2025-02-12 20:00:11.5205 - new_flat_generator(['a']) -> <generator object new_flat_generator at 0x000001C3615B5700>
+2025-02-12 20:00:11.5208 - new_flat_generator(['b', 'c']) -> <generator object new_flat_generator at 0x000001C3615B5700>
+2025-02-12 20:00:11.5210 - new_flat_generator(['d', 'e', [['f'], 'h'], False]) -> <generator object new_flat_generator at 0x000001C3615B5000>
+2025-02-12 20:00:11.5212 - new_flat_generator([['f'], 'h']) -> <generator object new_flat_generator at 0x000001C3615B5700>
+2025-02-12 20:00:11.5215 - new_flat_generator(['f']) -> <generator object new_flat_generator at 0x000001C3615B5540>
+2025-02-12 20:00:11.5218 - new_flat_generator([1, 2, None, [[[[['!']]]]], []]) -> <generator object new_flat_generator at 0x000001C3615B5000>
+2025-02-12 20:00:11.5220 - new_flat_generator([[[[['!']]]]]) -> <generator object new_flat_generator at 0x000001C3615B5700>
+2025-02-12 20:00:11.5222 - new_flat_generator([[[['!']]]]) -> <generator object new_flat_generator at 0x000001C3615B5540>
+2025-02-12 20:00:11.5224 - new_flat_generator([[['!']]]) -> <generator object new_flat_generator at 0x000001C3615B5620>
+2025-02-12 20:00:11.5227 - new_flat_generator([['!']]) -> <generator object new_flat_generator at 0x000001C3615B57E0>
+2025-02-12 20:00:11.5230 - new_flat_generator(['!']) -> <generator object new_flat_generator at 0x000001C3615B5380>
+2025-02-12 20:00:11.5232 - new_flat_generator([]) -> <generator object new_flat_generator at 0x000001C3615B5700>
+2025-02-12 20:00:11.5234 - new_flat_generator([[['a'], ['b', 'c']], ['d', 'e', [['f'], 'h'], False], [1, 2, None, [[[[['!']]]]], []]]) -> <generator object new_flat_generator at 0x000001C3615B51C0>

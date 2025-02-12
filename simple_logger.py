@@ -7,7 +7,7 @@ def logger(old_func):
     @wraps(old_func)
     def new_func(*args, **kwargs):
         log_path = 'main.log'
-        timestamp = datetime.now().strftime('%Y-%m-%d %H:%M:%S')
+        timestamp = datetime.now().strftime('%Y-%m-%d %H:%M:%S.%f')[:-2]
         func_name = old_func.__name__
         args_repr = [repr(a) for a in args]
         kwargs_repr = [f'{k}={v!r}' for k, v in kwargs.items()]

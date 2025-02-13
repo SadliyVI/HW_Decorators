@@ -17,7 +17,7 @@ class NewFlatIterator:
             raise StopIteration
         return self.flat_list[self.cursor]
 
-    @logger_with_parameters.logger('get_flat_list.log')
+    @logger_with_parameters.logger('task_3.log')
     def get_flat_list(self, inner_lists):
         result = []
         for item in inner_lists:
@@ -27,7 +27,7 @@ class NewFlatIterator:
                 result.extend(self.get_flat_list(item))
         return result
 
-@logger_with_parameters.logger('new_flat_generator.log')  # Task 4
+@logger_with_parameters.logger('task_3.log')  # Task 4
 def new_flat_generator(list_of_list):
     for item in list_of_list:
         if not isinstance(item, list):
